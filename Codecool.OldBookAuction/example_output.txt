@@ -1,0 +1,157 @@
+Book #0 [Astronomy] selling for 165 (1/20)
+4 bidders are interested in this book at the current price of 165.
+Bidder #0 bids 165.
+4 bidders are interested in this book at the current price of 165.
+Bidder #1 bids 185.
+3 bidders are interested in this book at the current price of 185.
+Bidder #0 bids 235.
+2 bidders are interested in this book at the current price of 235.
+Bidder #2 bids 238.
+2 bidders are interested in this book at the current price of 238.
+Bidder #0 bids 262.
+1 bidders are interested in this book at the current price of 262.
+Book #0 sold to Bidder #0 for 262 [2023. 02. 16. 14:32:03]
+------------
+Book #1 [History] selling for 179 (2/20)
+1 bidders are interested in this book at the current price of 179.
+Bidder #1 bids 179.
+1 bidders are interested in this book at the current price of 179.
+Book #1 sold to Bidder #1 for 179 [2023. 02. 16. 14:32:07]
+------------
+Book #2 [Astronomy] selling for 130 (3/20)
+4 bidders are interested in this book at the current price of 130.
+Bidder #2 bids 130.
+4 bidders are interested in this book at the current price of 130.
+Bidder #0 bids 167.
+3 bidders are interested in this book at the current price of 167.
+Bidder #2 bids 204.
+1 bidders are interested in this book at the current price of 204.
+Book #2 sold to Bidder #2 for 204 [2023. 02. 16. 14:32:15]
+------------
+Book #3 [Chemistry] selling for 147 (4/20)
+3 bidders are interested in this book at the current price of 147.
+Bidder #6 bids 147.
+3 bidders are interested in this book at the current price of 147.
+Bidder #8 bids 178.
+3 bidders are interested in this book at the current price of 178.
+Bidder #9 bids 261.
+1 bidders are interested in this book at the current price of 261.
+Book #3 sold to Bidder #9 for 261 [2023. 02. 16. 14:32:23]
+------------
+Book #4 [Astronomy] selling for 257 (5/20)
+No one is interested in this book.
+0 bidders are interested in this book at the current price of 257.
+Book #4 [Astronomy cannot be sold. Proceeding with next book.
+------------
+Book #5 [Astronomy] selling for 265 (6/20)
+No one is interested in this book.
+0 bidders are interested in this book at the current price of 265.
+Book #5 [Astronomy cannot be sold. Proceeding with next book.
+------------
+Book #6 [Chemistry] selling for 146 (7/20)
+3 bidders are interested in this book at the current price of 146.
+Bidder #6 bids 146.
+3 bidders are interested in this book at the current price of 146.
+Bidder #9 bids 208.
+3 bidders are interested in this book at the current price of 208.
+Bidder #6 bids 226.
+2 bidders are interested in this book at the current price of 226.
+Bidder #9 bids 248.
+1 bidders are interested in this book at the current price of 248.
+Book #6 sold to Bidder #9 for 248 [2023. 02. 16. 14:32:37]
+------------
+Book #7 [Medicine] selling for 151 (8/20)
+No one is interested in this book.
+0 bidders are interested in this book at the current price of 151.
+Book #7 [Medicine cannot be sold. Proceeding with next book.
+------------
+Book #8 [Physics] selling for 162 (9/20)
+2 bidders are interested in this book at the current price of 162.
+Bidder #8 bids 162.
+2 bidders are interested in this book at the current price of 162.
+Bidder #6 bids 326.
+2 bidders are interested in this book at the current price of 326.
+Bidder #8 bids 373.
+2 bidders are interested in this book at the current price of 373.
+Bidder #6 bids 432.
+1 bidders are interested in this book at the current price of 432.
+Book #8 sold to Bidder #6 for 432 [2023. 02. 16. 14:32:49]
+------------
+Book #9 [Archeology] selling for 291 (10/20)
+1 bidders are interested in this book at the current price of 291.
+Bidder #1 bids 291.
+1 bidders are interested in this book at the current price of 291.
+Book #9 sold to Bidder #1 for 291 [2023. 02. 16. 14:32:53]
+------------
+Book #10 [Physics] selling for 238 (11/20)
+2 bidders are interested in this book at the current price of 238.
+Bidder #6 bids 238.
+2 bidders are interested in this book at the current price of 238.
+Bidder #8 bids 329.
+2 bidders are interested in this book at the current price of 329.
+Bidder #6 bids 369.
+2 bidders are interested in this book at the current price of 369.
+Bidder #8 bids 395.
+2 bidders are interested in this book at the current price of 395.
+Bidder #6 bids 402.
+2 bidders are interested in this book at the current price of 402.
+Bidder #8 bids 411.
+1 bidders are interested in this book at the current price of 411.
+Book #10 sold to Bidder #8 for 411 [2023. 02. 16. 14:33:07]
+------------
+Book #11 [Chemistry] selling for 185 (12/20)
+2 bidders are interested in this book at the current price of 185.
+Bidder #6 bids 185.
+2 bidders are interested in this book at the current price of 185.
+Bidder #9 bids 191.
+2 bidders are interested in this book at the current price of 191.
+Bidder #6 bids 198.
+1 bidders are interested in this book at the current price of 198.
+Book #11 sold to Bidder #6 for 198 [2023. 02. 16. 14:33:15]
+------------
+Book #12 [Archeology] selling for 191 (13/20)
+No one is interested in this book.
+0 bidders are interested in this book at the current price of 191.
+Book #12 [Archeology cannot be sold. Proceeding with next book.
+------------
+Book #13 [History] selling for 218 (14/20)
+No one is interested in this book.
+0 bidders are interested in this book at the current price of 218.
+Book #13 [History cannot be sold. Proceeding with next book.
+------------
+Book #14 [Medicine] selling for 164 (15/20)
+No one is interested in this book.
+0 bidders are interested in this book at the current price of 164.
+Book #14 [Medicine cannot be sold. Proceeding with next book.
+------------
+Book #15 [Archeology] selling for 225 (16/20)
+No one is interested in this book.
+0 bidders are interested in this book at the current price of 225.
+Book #15 [Archeology cannot be sold. Proceeding with next book.
+------------
+Book #16 [Medicine] selling for 189 (17/20)
+No one is interested in this book.
+0 bidders are interested in this book at the current price of 189.
+Book #16 [Medicine cannot be sold. Proceeding with next book.
+------------
+Book #17 [Chemistry] selling for 106 (18/20)
+3 bidders are interested in this book at the current price of 106.
+Bidder #9 bids 106.
+3 bidders are interested in this book at the current price of 106.
+Bidder #8 bids 128.
+3 bidders are interested in this book at the current price of 128.
+Bidder #9 bids 162.
+1 bidders are interested in this book at the current price of 162.
+Book #17 sold to Bidder #9 for 162 [2023. 02. 16. 14:33:33]
+------------
+Book #18 [Archeology] selling for 256 (19/20)
+No one is interested in this book.
+0 bidders are interested in this book at the current price of 256.
+Book #18 [Archeology cannot be sold. Proceeding with next book.
+------------
+Book #19 [Medicine] selling for 148 (20/20)
+No one is interested in this book.
+0 bidders are interested in this book at the current price of 148.
+Book #19 [Medicine cannot be sold. Proceeding with next book.
+------------
+10 were sold out of 20 books.
